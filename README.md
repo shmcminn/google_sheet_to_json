@@ -1,4 +1,4 @@
-# Scrape Google sheets to write local JSON file
+# Scrape Google Sheets to write local JSON file
 
 Uses the Google Sheets API to access a spreadsheet and write it as JSON, which can then be accessed by other scripts, web apps, etc.
 
