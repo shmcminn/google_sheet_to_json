@@ -21,7 +21,7 @@ APPLICATION_NAME = 'Google Sheets API Python Quickstart'
 ### api docs here https://developers.google.com/sheets/api/reference/rest/
 
 # change these options
-# NOTE: ONLY WORKS FOR FILES ON cqrcdata@gmail.com ACCOUNT
+# NOTE: ONLY WORKS FOR FILES ON AUTHORIZED ACCOUNT
 SPREADSHEET_ID = ""
 SHEET_RANGE = "Sheet1"
 OUTPUT_FILE = "output.txt"
