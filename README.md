@@ -10,4 +10,4 @@ Modify the SPREADSHEET_ID, SHEET_RANGE and OUTPUT_FILE variables in the python s
   * SHEET_RANGE ==> tabs or ranges you want to acccess in the document
   * OUTPUT_FILE ==> name of file you want to write to
 
-Required libraries are listed in requirements.txt
+Required libraries (and then some ...) are listed in requirements.txt
